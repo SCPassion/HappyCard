@@ -1,8 +1,9 @@
 body {
     text-align: center;
-    font-family: 'Happy Monkey', cursive;
-    background: linear-gradient(#a2d2ff, #EFB0C9);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background: url("https://images.unsplash.com/photo-1729541777356-e28f6cd67fb6?q=80&w=3264&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
     color: #ffffff;
+    background-size:cover;
 }
 
 h1, h2, h3, h4, p {
